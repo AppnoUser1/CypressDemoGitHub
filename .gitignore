@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+cypress/videos
+cypress/screenshots
+cypress/fixtures/url.json
+cypress/integration/dummy.json
+cypress/fixtures/data.txt
+TestReport/
